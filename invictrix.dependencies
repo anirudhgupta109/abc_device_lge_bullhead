@@ -1,8 +1,8 @@
 [
  {
-   "repository": "mohican16/abc_kernel_lge_bullhead",
+   "repository": "InvictrixROM-Devices/kernel_lge_bullhead",
    "target_path": "kernel/lge/bullhead",
-   "branch": "o2"
+   "branch": "inv-8.1"
  },
  {
    "repository": "anirudhgupta109/android_vendor_lge",
