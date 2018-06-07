@@ -5,8 +5,8 @@
    "branch": "inv-8.1"
  },
  {
-   "repository": "anirudhgupta109/android_vendor_lge",
+   "repository": "InvictrixROM-Devices/vendor_lge",
    "target_path": "vendor/lge",
-   "branch": "aosip"
+   "branch": "inv-8.1"
  }
 ]
