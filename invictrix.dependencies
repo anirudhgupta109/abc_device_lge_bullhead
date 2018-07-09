@@ -1,8 +1,8 @@
 [
  {
-   "repository": "InvictrixROM-Devices/kernel_lge_bullhead",
+   "repository": "AOSiP-Devices/kernel_lge_bullhead",
    "target_path": "kernel/lge/bullhead",
-   "branch": "inv-8.1"
+   "branch": "oreo-mr1"
  },
  {
    "repository": "InvictrixROM-Devices/vendor_lge",
